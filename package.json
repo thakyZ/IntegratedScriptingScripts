@@ -1,0 +1,30 @@
+{
+  "name": "integratedscripting-scripts",
+  "version": "1.0.0",
+  "description": "A repository to compile all my IntegratedScripting scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "keywords": [
+    "minecraft"
+  ],
+  "issues": "https://github.com/thakyZ/IntegratedScriptingScripts/issues",
+  "homepage": "https://github.com/thakyZ/IntegratedScriptingScripts#README.md",
+  "bugs": "https://github.com/thakyZ/IntegratedScriptingScripts/bugs",
+  "readme": "./README.md",
+  "repository": {
+    "url": "git+https://github.com/thakyZ/IntegratedScriptingScripts.git",
+    "type": "git"
+  },
+  "author": "Neko Boi Nick <950594+thakyZ@users.noreply.github.com> (https://github.com/thakyz)",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^9.5.0",
+    "typescript": "^5.5.2",
+    "typescript-eslint": "^7.14.1"
+  }
+}
